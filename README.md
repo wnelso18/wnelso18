@@ -1,4 +1,4 @@
-[![https://img.shields.io/github/followers/wnelso18?style=social]()]
+[!(https://img.shields.io/github/followers/wnelso18?style=social)[]]
 
 ### Hi there 👋
 
