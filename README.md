@@ -12,22 +12,15 @@ and in my free time I enjoy watching The Blacklist and fly fishing in the Great 
 
 ## Skills 🤹
 
-* Python
-* ArcPro and ESRI
-* HTML5
-* CSS
-* Django
-* Cloud Computing
-* PostgreSQL
-* PGAdmin4
-* R Studio
-* Remote Sensing/Lidar
-* Google API
-* Streamlit.io
-* Git/Github
-* Anaconda Prompt
-* Web Development
-* DJI
+* Python              * R Studio
+* ArcPro and ESRI     * Remote Sensing/Lidar
+* HTML5               * Google API
+* CSS                 * Streamlit.io
+* Django              * Git/Github
+* Cloud Computing     * Anaconda Prompt
+* PostgreSQL          * Web Development
+* PGAdmin4            * DJI
+
 
 <!--
 **wnelso18/wnelso18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
