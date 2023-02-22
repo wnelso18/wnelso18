@@ -1,5 +1,6 @@
 ![](https://img.shields.io/github/followers/wnelso18?style=social)
 [![](https://img.shields.io/badge/UTK-student-orange)](https://www.utk.edu/)
+[![](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/william-jack-nelson/)
 
 ### Hi there 👋
 
