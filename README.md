@@ -12,14 +12,22 @@ and in my free time I enjoy watching The Blacklist and fly fishing in the Great 
 
 ## Skills 🤹
 
-* Python              * R Studio
-* ArcPro and ESRI     * Remote Sensing/Lidar
-* HTML5               * Google API
-* CSS                 * Streamlit.io
-* Django              * Git/Github
-* Cloud Computing     * Anaconda Prompt
-* PostgreSQL          * Web Development
-* PGAdmin4            * DJI
+* Python              
+* R Studio
+* ArcPro and ESRI     
+* Remote Sensing/Lidar
+* HTML5               
+* Google API
+* CSS                 
+* Streamlit.io
+* Django              
+* Git/Github
+* Cloud Computing     
+* Anaconda Prompt
+* PostgreSQL          
+* Web Development
+* PGAdmin4            
+* DJI
 
 
 <!--
