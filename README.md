@@ -1,5 +1,5 @@
 ![](https://img.shields.io/github/followers/wnelso18?style=social)
-[![](https://img.shields.io/badge/UTK-student-orange)](www.utk.edu)
+[![](https://img.shields.io/badge/UTK-student-orange)](utk.edu)
 
 ### Hi there 👋
 
