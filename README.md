@@ -4,11 +4,13 @@
 
 ## Hi there 👋
 
-<div align="center">I am a 3rd Year Senior enrolled at The University of Tennessee Knoxville. I am
-currently studying Geography: Geospatial Science/Technology to hopefully and
-eventually use my acquired skills to work for the National Park Service or other
-companies that involve the use of GIS/Python Development. I love to problem solve
-and in my free time I enjoy watching The Blacklist and fly fishing in the Great Smoky Mountains.</div>
+<div align="center">
+Geospatial Science & Technology graduate from the University of Tennessee, Knoxville, with a strong focus on 
+GIS, Python development, and spatial problem-solving. Passionate about building practical geospatial tools,  
+automating workflows, and turning complex data into clear, usable products. Aspiring to apply these skills  
+within environmental, infrastructure, and public-lands work. Outside of GIS, I enjoy fly fishing in the Great Smoky Mountains  
+and unwinding with a good thriller series.
+</div>
 
 ## Skills 🤹
 
